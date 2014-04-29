@@ -1,0 +1,16 @@
+{
+  "name": "breaking-bad",
+  "title": "Breaking Bad Stylish App",
+  "version": "0.0.1",
+  "author": "Shan He <sean.shanhe@gmail.com>",
+  "description": "a funny breaking-bad style string decoration application",
+  "keywords": ["breaking bad"],
+  "repository": {
+    "name": "git",
+    "url": "https://github.com/waterwaves/breaking-bad.git"
+  },
+  "dependencies": {
+    "jasmine-core": "2.x.x"
+  },
+  "license": "MIT"
+}
